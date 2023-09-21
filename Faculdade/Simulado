@@ -1,4 +1,3 @@
-#include <stdio.h>
 /* Construa um programa em C ANSI onde exista uma função que recebe por parâmetro um número e
 retorne 1 caso ele seja perfeito ou zero caso ele não seja perfeito. Um número perfeito é um número que a
 soma de seus divisores com exceção do próprio número é igual a ele mesmo. Ex: 6 ( 1 + 2 + 3 ), 28 (
@@ -9,6 +8,7 @@ c) O maior número perfeito;
 d) O menor número perfeito;
 e) Somatório dos números perfeitos.*/
 
+#include <stdio.h>
 int perfeito(int numero)
 
 int main(){
