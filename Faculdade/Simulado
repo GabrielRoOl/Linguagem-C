@@ -9,10 +9,14 @@ c) O maior número perfeito;
 d) O menor número perfeito;
 e) Somatório dos números perfeitos.*/
 
+int perfeito(int numero)
+
 int main(){
+    int perfeito;
+
+}
+int perfeito(int numero){
     int numero, i, contador=0, divisores, somador = 0;
-    
-    scanf("%d", &numero);
     for(i=1; i < numero; i++)
     {
         contador = i;
@@ -20,11 +24,12 @@ int main(){
         {
         divisores = contador;
         somador += divisores;
-        printf("%d\n", divisores);
         }
-        
     }
-    printf("%d\n",somador);
-    
-    return 0;
+    if( somador == numero)
+    {
+        return 1;
+    } else {
+        return 0;
+    }
 }
