@@ -28,7 +28,7 @@ int funcao(int x, int y)
 {
   int i, qtd_primos=0, aux;
   
-  if(x > y)     //Considerando o 'x' sempre menor que 'y', caso contrario entrara no 'if' abaixo //
+  if(x > y)     // Considerando que 'x' sempre seja menor que 'y', caso contrario entrara no 'if' abaixo //
   {
     aux = x;    // 'aux' ira receber o valor de x //
     x = y;      // Em seguida 'x' recebera o valor de 'y' //
