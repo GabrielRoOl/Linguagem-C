@@ -4,8 +4,8 @@ principal, solicite ao usuário os valores X e Y e diga quantos primos há entre
 
 #include <stdio.h>
 
-int primo(int x);
 int funcao(int x, int y);
+int primo(int x);
 
 // FUNÇÃO PRINCIPAL//
 int main()
@@ -51,6 +51,10 @@ int funcao(int x, int y)
 int primo(int x)
 {
   int i;
+  if(x < 2)
+  {
+    return 0;
+  }
   for(i = 2; i < x; i++) /* Começa com '2' para não ter conflito com o if abaixo e ter mais de 1 divisor*/ 
     {
       if(x % i == 0) // Retira todos os números que possuem mais de 1 divisor//
