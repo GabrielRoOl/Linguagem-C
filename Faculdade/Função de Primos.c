@@ -5,9 +5,6 @@ principal, solicite ao usuário os valores X e Y e diga quantos primos há entre
 #include <stdio.h>
 #include <stdlib.h>
 
-int primo(int x);
-int funcao(int n1, int n2);
-
 int main() 
 {
   int primo, x,y;
