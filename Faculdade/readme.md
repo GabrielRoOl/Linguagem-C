@@ -1,3 +1,5 @@
+# Rascunho
+
 #Aula ponteiro
 
 ponteiro é o endereço de onde começa
