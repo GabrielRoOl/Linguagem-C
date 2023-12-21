@@ -1,1 +1,1 @@
-# Atividade de aprendizado em C
+# Aprendizado em C
