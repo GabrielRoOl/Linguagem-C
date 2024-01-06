@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+typedef struct 
+{
+  char nome[20];
+}pessoa;
+
+int main()
+{
+  pessoa *p = (pessoa *) malloc(sizeof(pessoa));
+
+  strcpy(p->nome, "Hello World!");
+
+  printf("%s\n", p->nome);
+  
+  return 0;
+}
