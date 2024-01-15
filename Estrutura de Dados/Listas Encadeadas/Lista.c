@@ -26,5 +26,5 @@ int main()
   
   printf("%.1f", lista_pontos->prox->prox->prox->x);
 
-  return 0;
+  return 0; 
 }
