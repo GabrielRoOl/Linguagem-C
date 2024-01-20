@@ -17,3 +17,5 @@ A função inclui uma chamada a si mesma para resolver um subproblema menor, at�
 Cada camada deve reduzir a complexidade do problema original, movendo-o em direção ao caso base.
 ### Exemplo Simples
 ![image](https://github.com/GabrielRoOl/C/assets/144238400/ed1ecbef-4904-49e2-b60e-5c2a3582622f)
+# Inserção no Fial
+Adicionar um novo nó após o ultimo nó existente na lista. Se a lista estiver vazia, o novo nó se torna o primeiro nó. Se a lista já contiver elementos, o novo nó é adicionado após o último nó, ajustando o ponteiro apropriadamente
