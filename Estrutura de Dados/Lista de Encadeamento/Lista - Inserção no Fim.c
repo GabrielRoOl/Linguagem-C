@@ -30,14 +30,15 @@ void adicionar_inicio(float x, float y)
 //Função para adicionar um novo elemento ao final da lista
 void adicionar_fim(float x, float y)
 {
+  //Alocando memória dinamicamente
   ponto *p = (ponto *)malloc(sizeof(ponto));
   p->x = x;
   p->y = y;
-  p->prox = NULL;    //Porque ele já será o ultimo elemento
+  p->prox = NULL;    //Ele entrara no lugar do último elemento da lista
   
-  if(ListaPontos == NULL)
+  if(ListaPontos == NULL)    //Se 'ListaPontos' for Null
   {
-    ListaPontos = p;
+    ListaPontos = p;    //'ListaPontos' recebe o valor de 'P'
   }  else
   {
     ponto *listaAux = ListaPontos;
