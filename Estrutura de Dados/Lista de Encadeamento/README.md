@@ -7,5 +7,6 @@ Os elementos são armazenados em nós com um valor e um ponteiro/referência par
 
 ### Exemplo simples
 
-![image](https://github.com/GabrielRoOl/C/assets/144238400/41b311e8-cb21-4a5f-b0e4-0009c30cdf2c)
+![image](https://github.com/GabrielRoOl/C/assets/144238400/631a1582-263e-403e-ad91-f4c928ac09d0)
+
 
