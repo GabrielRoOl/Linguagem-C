@@ -21,3 +21,12 @@ Cada camada deve reduzir a complexidade do problema original, movendo-o em dire�
 Adicionar um novo nó após o ultimo nó existente na lista. Se a lista estiver vazia, o novo nó se torna o primeiro nó. Se a lista já contiver elementos, o novo nó é adicionado após o último, ajustando o ponteiro apropriadamente.
 ### Exemplo Simples
 ![image](https://github.com/GabrielRoOl/C/assets/144238400/12d8e6db-8982-4334-935f-d5c49c599c4b)
+# Inserção Abstrata
+Adicionar um novo elemento à lista sem se preocupar com a implementação específica da lista.
+### Exemplo Simples 
+![image](https://github.com/GabrielRoOl/C/assets/144238400/82376c63-5dbe-41e0-a56d-0449f0695288)
+# Remoção
+A operação de remoção em uma lista encadeada refere-se à exclusão de um elemento específico ou à eliminação do primeiro ou último nó da lista.
+### Exemplo Simples
+![image](https://github.com/GabrielRoOl/C/assets/144238400/14396c9e-1ef8-419c-b542-b6a03928ef16)
+
