@@ -6,5 +6,7 @@ O princípio "Primeiro a entrar, primeiro a sair" (FIFO First-In-First-Out).
 # Pilhas 
 É uma estrutura de dados linear onde a inserção de elementos e a remoção ocorrem no mesmo extremo, chamado topo.
 O princípio "Último a entrar, primeiro a sair" (LIFO Last-In-First-Out).
-## Exemplo Simplse
+## Exemplo Simples
+
+
 ...
