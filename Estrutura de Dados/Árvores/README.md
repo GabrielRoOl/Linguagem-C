@@ -6,6 +6,9 @@ São estruturas não lineares, consiste em nós conectador por arestas. Cada nó
 Adicionando novos elementos a árvore usando o método recursivo.
 
 ![image](https://github.com/GabrielRoOl/C/assets/144238400/e31953a6-96d6-4e7e-853e-8c6d1e94077a)
+## Iserindo Estrutura 
+
+![image](https://github.com/GabrielRoOl/C/assets/144238400/2a790a03-92f9-469e-9adc-d9cf4d03d685)
 
 
 ...
