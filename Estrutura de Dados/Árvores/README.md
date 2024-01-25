@@ -1,2 +1,3 @@
 # Árvores
+São estruturas não lineares, consiste em nós conectador por arestas. Cada nó tem um valor e zero ou mais nós filhos, formando uma hierarquia.
 ...
