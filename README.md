@@ -1,11 +1,11 @@
 # Estrutura de Dados em Linguagem C
-Bem-vindo ao meu repositório!! Esse é um local de desenvolvimento usando a linguagem de programação C, aqui você encontrar vário exercícios e desafios.
+Bem-vindo ao meu repositório!! Esse é um local de desenvolvimento usando a linguagem de programação C, aqui você encontrar vário exercícios, desafios, observações e aprendizados que desenvolvi fora e dentro da faculdade.
 
 ## Sobre o Repositorio
-Este repositório servirá como um diário de bordo digital, documentando os desafios enfrentados, os conceitos aprendidos e as soluções implementadas ao longo do curso. Outros estudantes, desenvolvedores iniciantes e mentores estão convidados a colaborar, fornecendo sugestões, correções ou dicas úteis.
+Este repositório servirá como um diário de bordo digital, documentando os desafios enfrentados, os conceitos aprendidos e as soluções implementadas. Outros estudantes, desenvolvedores iniciantes e mentores estão convidados a colaborar, fornecendo sugestões, correções ou dicas úteis.
 
 ## Como Você Pode me Ajudar
-Se você tem experiência em HTML5 e CSS3 e gostaria de apoiar o desenvolvimento contínuo deste aluno:
+Se você tem experiência com a linguagem C e gostaria de apoiar meu desenvolvimento:
 
 1. Revise o código e forneça feedback construtivo.
 2. Sugira recursos educacionais adicionais.
