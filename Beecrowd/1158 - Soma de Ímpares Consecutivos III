@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int main() {
+    int x, y, i, u;
+    int soma;
+
+    scanf("%d", &u);
+
+    for (i = 0; i < u; i++) {
+        scanf("%d", &x);
+        scanf("%d", &y);
+
+        if (x % 2 == 0) {
+            x++;
+        }
+
+        soma = 0;
+        
+        for (int j = 0; j < y; j++) {
+            soma += x;
+            x += 2; 
+        }
+
+        printf("%d\n", soma);
+    }
+    return 0;
+}
